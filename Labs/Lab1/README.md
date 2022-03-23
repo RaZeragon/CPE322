@@ -25,9 +25,12 @@ There are plenty of terminal tutorials on the internet. Here are a couple:  <br>
   <summary>Click to expand!</summary>
   
 - `$ ls`  <br>
-This command lists all of the files in your current directory. It's really useful since it can give a ton of other important information like file sizes, subdirectories, and hidden files.  <br>
-![image](https://user-images.githubusercontent.com/43688127/159590129-17818d4a-dbb2-4422-8c57-ec7067b22725.png)  <br>
-This command can be modified with the following arguments for some cool and useful outputs:  <br>
+    <details>
+      <summary>Click to expand!</summary>
+  
+    This command lists all of the files in your current directory. It's really useful since it can give a ton of other important information like file sizes, subdirectories, and hidden files.  <br>
+    ![image](https://user-images.githubusercontent.com/43688127/159590129-17818d4a-dbb2-4422-8c57-ec7067b22725.png)  <br>
+    This command can be modified with the following arguments for some cool and useful outputs:  <br>
     1. `$ ls -a` lists all files including hidden files  <br>
     2. `$ ls -F` lists files while including file types by putting different characters after the filename ('/' for directories and '\*' for executables)  <br>
     3. `$ ls -l` lists files vertically and includes important information in each column (starting from left to right)  <br>
@@ -41,51 +44,221 @@ This command can be modified with the following arguments for some cool and usef
     4. `$ ls -R` gives a recursive listing of the directory (lists stuff in subdirectories)  <br>
     5. `$ ls -t` lists files using the time they were last edited (newest first)  <br>
     6. `$ ls -r` lists files in the reverse order that they would originally be listed in  <br>
-- `& cd`  <br>
-This command lets you travel into or out of directories depending on the argument that you specify. It's basically your tool to move around in the Linux terminal. Usually, you would use this after using `$ ls` to locate a specific directory. In the below example, I used `$ ls` to find the asm directory and then used the `$ cd` command to travel inside the asm directory.  <br>
+    </details>
+  
+- `$ cd`  <br>
+    <details>
+      <summary>Click to expand!</summary>
+      
+    This command lets you travel into or out of directories depending on the argument that you specify. It's basically your tool to move around in the Linux terminal. Usually, you would use this after using `$ ls` to locate a specific directory. In the below example, I used `$ ls` to find the asm directory and then used the `$ cd` command to travel inside the asm directory.  <br>
 ![image](https://user-images.githubusercontent.com/43688127/159594750-f34f81ee-90f2-4495-bc4d-1b5f7fff227d.png)  <br>
 This command can be modified with the following arguments to change where you end up:  <br>
-    1. `& cd directory_name` places you inside the directory you specified in 'directory_name' (must be within the current directory).   <br>
+    1. `$ cd directory_name` places you inside the directory you specified in 'directory_name' (must be within the current directory).   <br>
         *Note: Linux is case-sensitive!*  <br>
-    2. `& cd /new/file_path/directory` places you inside the directory you specified in the filepath '/new/file_path/directory'. This allows you to travel to a directory that isn't directly located in your current directory, and the filepath specified is known as an **absolute or full path**  <br>
-    2. `& cd..` moves you one directory back  <br>
-    3. `& cd` takes you straight to the home folder  <br>
-    4. `& cd -` takes you to your previous directory  <br>
-- `& pwd`  <br>
-This command tells you where you are in the system. It outputs your current absolute path.  <br>
-![image](https://user-images.githubusercontent.com/43688127/159595125-fbb9ad85-ea1b-49ba-814f-93b75f2089a3.png)  <br>
-- `& locate`  <br>
-- `& find`  <br>
+    2. `$ cd /new/file_path/directory` places you inside the directory you specified in the filepath '/new/file_path/directory'. This allows you to travel to a directory that isn't directly located in your current directory, and the filepath specified is known as an **absolute or full path**  <br>
+    2. `$ cd..` moves you one directory back  <br>
+    3. `$ cd` takes you straight to the home folder  <br>
+    4. `$ cd -` takes you to your previous directory  <br>
+    </details>
+  
+- `$ pwd`  <br>
+    <details>
+      <summary>Click to expand!</summary>
+      
+    This command tells you where you are in the system. It outputs your current absolute path.  <br>
+    ![image](https://user-images.githubusercontent.com/43688127/159595125-fbb9ad85-ea1b-49ba-814f-93b75f2089a3.png)  <br>
+    </details>
+  
+- `$ locate`  <br>
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
+- `$ find`  <br>
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
 </details>
 
 ### File Management
-- `& cp`
-- `& mv`
-- `& rm`
-- `& cat`
-- `& nano`
+<details>
+  <summary>Click to expand!</summary>
+
+- `$ cp`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
+- `$ mv`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
+- `$ rm`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
+- `$ cat`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
+- `$ nano`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ mkdir`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ rmdir`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ chmod`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ wget`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+</details>
+
 ### System Internals
+<details>
+  <summary>Click to expand!</summary>
+
 - `$ df`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ hostname`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ env`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ ps`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ uname`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+</details>
+
 ### Internet and Networking
+<details>
+  <summary>Click to expand!</summary>
+
 - `& ifconfig`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `& ping`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `& netstat`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+</details>
+
 ### GitHub
+<details>
+  <summary>Click to expand!</summary>
+
 - `$ git clone`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `& git add`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `& git commit`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `& git push`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `& git status`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+</details>
+
 ### Help
+<details>
+  <summary>Click to expand!</summary>
+
 - `$ man`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ clear`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ history`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+  
 - `$ kill`
+    <details>
+      <summary>Click to expand!</summary>
+      
+    </details>
+</details>

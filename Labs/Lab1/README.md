@@ -69,16 +69,15 @@ This command can be modified with the following arguments to change where you en
     ![image](https://user-images.githubusercontent.com/43688127/159595125-fbb9ad85-ea1b-49ba-814f-93b75f2089a3.png)  <br>
     </details>
   
-- `$ locate`  <br>
-    <details>
-      <summary>Click to expand!</summary>
-      
-    </details>
-  
 - `$ find`  <br>
     <details>
       <summary>Click to expand!</summary>
-      
+   
+    This command allows you to locate the filepaths of specific items. This command can also contain arguments that can execute commands on the files it locates. The correct structure of the command is as follows:
+    ```
+    $ find [filepath of where to start searching] [expression determines what to find] [-arguments] [what to find]
+    ```
+    More information on this command and its arguments can be found [here](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/).
     </details>
 </details>
 
@@ -89,7 +88,8 @@ This command can be modified with the following arguments to change where you en
 - `$ cp`
     <details>
       <summary>Click to expand!</summary>
-      
+    
+    This command allows you to copy files 
     </details>
   
 - `$ mv`

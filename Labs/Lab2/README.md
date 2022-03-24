@@ -29,18 +29,42 @@ Since these terminals serve essentially the same function, many of the commands 
 - `>dir`  <br>
     <details>
       <summary>Click to expand!</summary>
-  
+    
+    **Description:** This command allows the user to list out all the files and directories within the current directory. This command will also show some information about the computer's disks including the current storage and the free storage.  <br>
+      <br>
+    **Linux Equivalent:** `$ ls`  <br>
+      <br>
+    **Example:**  <br>
+    ![image](https://user-images.githubusercontent.com/43688127/159807880-b9294a13-0685-4ed1-9299-4a4ffe39397b.png)
+
     </details>
   
 - `>cd`  <br>
     <details>
       <summary>Click to expand!</summary>
-      
+    
+    **Description:** This command allows the user to travel through directories.  <br>
+      <br>
+    **Linux Equivalent:** `$ cd`  <br>
+      <br>
+    **Example:**  <br>
+    ![image](https://user-images.githubusercontent.com/43688127/159808391-c619643b-b926-4ece-a0ba-dbe1559ff37d.png)
+
     </details>
   
 - `>tree`  <br>
     <details>
       <summary>Click to expand!</summary>
+      
+    **Description:** This command allows the user to list all the subdirectories of a current directory (essentially a recursive `$ ls`, or it can be used to find specific files within directories by adding in a couple arguments. <br>
+      <br>
+    **Linux Equivalent:** `$ ls -R` for recursive list; `$ find` for locating files  <br>
+      <br>
+    **Example:** (Recursive List)  <br>
+    ![image](https://user-images.githubusercontent.com/43688127/159823230-10bfec40-0e23-4edf-8e50-fa9f0f2288b6.png)  <br>
+      <br>
+    **Example:** (Locating Files)  <br>
+    ![image](https://user-images.githubusercontent.com/43688127/159823306-c4ad4389-8e7b-4a8f-b4b2-4626456916ac.png)  <br>
 
     </details>
 </details>

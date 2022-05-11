@@ -26,10 +26,9 @@
 **Google Sheets Data**  <br>
 ![image](https://user-images.githubusercontent.com/43688127/167757438-913e7ddf-d8f8-49bb-a730-35c0108aa047.png) <br>
   <br>
-  
-**Graphs**  <br>
-![image](https://user-images.githubusercontent.com/43688127/167751316-dd9e477b-de5d-4724-a7e7-c2d975ee1fc8.png) <br>
-  <br>
+Note: The above screenshot was taken while this program was running. For the full set of data, please check the spreadsheet linked below. <br>
+
+[Data Sheet](https://docs.google.com/spreadsheets/d/1yWwk_asNaBPolKLTkngyVac2JpwqlUmqxc3HmF4VMsk/edit#gid=0)
 
 </details>
 

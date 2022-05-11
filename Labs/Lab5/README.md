@@ -3,7 +3,7 @@
 <details>
   <summary>Click to expand!</summary>
   
-**Lab 5:** The purpose of Lab 3 is to familiarize oneself with Paho and MQTT.
+**Lab 5:** The purpose of Lab 5 is to familiarize oneself with Paho and MQTT.
 ![image](https://user-images.githubusercontent.com/43688127/160262207-3d1a4d4b-1a65-45be-b421-b77041db3eaa.png)
   
 [Resources](https://mosquitto.org/man/mosquitto_sub-1.html)

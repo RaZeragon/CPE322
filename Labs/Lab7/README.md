@@ -3,7 +3,7 @@
 <details>
   <summary>Click to expand!</summary>
   
-**Lab 7:** The purpose of Lab 6 is to familiarize oneself with ThingSpeak and Google Sheets.
+**Lab 7:** The purpose of Lab 7 is to familiarize oneself with ThingSpeak and Google Sheets.
 ![image](https://user-images.githubusercontent.com/43688127/167752156-a1c1fe5a-dea7-4e91-b1d8-4434cb136ee8.png)
   
 [ThingSpeak](https://thingspeak.com/)

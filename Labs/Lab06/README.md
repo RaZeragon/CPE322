@@ -5,8 +5,7 @@
   
 **Lab 6:** The purpose of Lab 6 is to familiarize oneself with Node.js and Pystache.
 ![image](https://user-images.githubusercontent.com/43688127/167749205-cf66d7e5-8aed-4136-b351-0ef031ea7d50.png)
-  
-[Resources](https://mosquitto.org/man/mosquitto_sub-1.html)
+
 </details>
 
 ## Node.js

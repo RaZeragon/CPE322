@@ -13,7 +13,7 @@
   <summary>Click to expand!</summary>
   
 **hello-world.js**  <br>
-![image](https://user-images.githubusercontent.com/43688127/167751981-503233e4-95b0-45c6-be0a-6134940fa418.png) <br>
+![image](https://user-images.githubusercontent.com/43688127/167969225-6c5579af-3652-48d7-b6f8-8b6f2306018a.png) <br>
   <br>
   
 **hello.js**  <br>

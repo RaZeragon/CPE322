@@ -42,12 +42,16 @@
 <details>
   <summary>Click to expand!</summary>
   
-**snakecoin.py**  <br>
-![Hash](https://user-images.githubusercontent.com/43688127/167762919-83fe2eb3-2089-411d-900d-46a9bee5fe44.PNG) <br>
+**YourNet: Decentralized Content Sharing**  <br>
+![image](https://user-images.githubusercontent.com/43688127/167968693-ba0b1f62-6801-4758-8a20-7e0f4ce6c2b2.png) <br>
   <br>
   
-**SnakeCoin Server**  <br>
-![image](https://user-images.githubusercontent.com/43688127/167764171-6ff8ba90-260d-4030-8ce9-ed46c0cd6e6f.png) <br>
+**Mining First Block**  <br>
+![image](https://user-images.githubusercontent.com/43688127/167968768-c22b85c6-eecd-4145-8f79-0eccda6a678a.png) <br>
+  <br>
+  
+**First Block Mined**  <br>
+![image](https://user-images.githubusercontent.com/43688127/167968823-fbcf6030-a4eb-4371-ad4c-cfcff21e1f3b.png) <br>
   <br>
   
 </details>
